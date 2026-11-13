@@ -1,0 +1,15 @@
+{
+  "discount_factor_4pct_2y": 0.9231163463866358,
+  "forward_2y_3y": 0.05500000000000001,
+  "bond_10y_4pct_price": 98.14728014979913,
+  "par_swap_10y": 0.04228430514792931,
+  "liability_pv": 52861230.426599726,
+  "liability_dv01": -79232.40647897124,
+  "hedge_a_size": 70740901.0382187,
+  "hedge_b_size": 72087359.75561854,
+  "net_surplus_a_down": -68244.08253313787,
+  "net_surplus_a_up": -57758.12298089452,
+  "net_surplus_b_down": -65103.594851218164,
+  "net_surplus_b_up": -55100.183026626706,
+  "recommendation": "Prefer Solution A (receive-fixed swap) when the fund wants duration with minimal cash outlay and can manage CSA/counterparty terms. Prefer Solution B (physical gilts) when the mandate forbids derivatives or when collateral and counterparty risk dominate. Both are sized to the same DV01, so parallel \u00b1100 bp P&L is close; the commercial choice is about cash, credit, and governance\u2014not the first-order rate hedge."
+}
